@@ -45,8 +45,7 @@ Se identificaron amenazas como accesos no autorizados, manipulación de contenid
 
 El modelo permite comprender cómo los diferentes roles (estudiante, docente y administrador) interactúan con la plataforma y qué riesgos se presentan en cada punto del flujo de información.
 
-> 📊 Ver tabla STRIDE en:
-> `clase/tabla-stride-clase.xlsx`
+<img width="2821" height="221" alt="image" src="https://github.com/user-attachments/assets/e4e10e19-25a3-4424-87b4-1081667dc982" />
 
 ## Caso Real – 🚌 TransCapital S.A.S
 
@@ -56,8 +55,7 @@ El modelo evidenció múltiples riesgos críticos, como la posibilidad de manipu
 
 El análisis permitió proponer mejoras como la implementación de controles de acceso, auditoría de acciones, respaldo de información y migración hacia sistemas más robustos y centralizados.
 
-> 📊 Ver tabla STRIDE en:
-> `entrega/tabla-stride-cliente.xlsx`
+<img width="2085" height="282" alt="image" src="https://github.com/user-attachments/assets/40e444b2-1bce-4070-ac75-081756f6f38c" />
 
 # 📁 Estructura del Repositorio
 
