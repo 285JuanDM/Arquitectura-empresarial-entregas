@@ -20,7 +20,7 @@ Para el desarrollo se utilizó **Excel** para la construcción de la tabla STRID
 
 ## 🧩 Boceto inicial del modelo
 
-![Análisis Stride EduKit](image.png)
+<img width="2821" height="221" alt="image" src="https://github.com/user-attachments/assets/74e4c075-1238-468d-ba01-96ce6b6d302a" />
 
 El modelo inicial corresponde a una tabla STRIDE aplicada al flujo de acceso a cursos en la plataforma EdukIT. En este se identifican amenazas relacionadas con suplantación de identidad, manipulación de contenido, acceso indebido a información académica y posibles interrupciones del servicio, lo que permite visualizar los principales riesgos de seguridad del sistema.
 
