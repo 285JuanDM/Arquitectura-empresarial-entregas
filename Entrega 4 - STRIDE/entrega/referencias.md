@@ -3,13 +3,18 @@
 Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
 
 ## 🔖 Taller
-_Taller 3 - Infraestructura_
+
+*Taller 4 - STRIDE*
+¿
 
 ## 📚 Referencias utilizadas
 
-1. Apellido, Nombre. *Título del libro o artículo*. Editorial, Año. URL o DOI.  
-2. Organización. *Especificación técnica o estándar consultado*. URL.  
-3. Sitio web institucional. "Título del artículo o página". [Enlace](https://ejemplo.com). Fecha de consulta: DD/MM/AAAA.  
-4. Otro recurso académico o técnico citado.
+1. Microsoft. "The STRIDE Threat Model". [https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats). Fecha de consulta: 18/03/2026.
 
-_Este archivo forma parte de la entrega académica del curso AREM - Universidad de La Sabana._
+2. OWASP Foundation. "Threat Modeling". [https://owasp.org/www-community/Threat_Modeling](https://owasp.org/www-community/Threat_Modeling). Fecha de consulta: 18/03/2026.
+
+3. Shostack, Adam. *Threat Modeling: Designing for Security*. Wiley, 2014.
+
+4. NIST (National Institute of Standards and Technology). "Guide for Conducting Risk Assessments". [https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf). Fecha de consulta: 18/03/2026.
+
+*Este archivo forma parte de la entrega académica del curso AREM - Universidad de La Sabana.*
