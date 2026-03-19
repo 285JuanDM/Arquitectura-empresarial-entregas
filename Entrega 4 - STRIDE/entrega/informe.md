@@ -36,7 +36,7 @@ Se asumió que la empresa no cuenta con controles formales de seguridad, sistema
 
 # 📈 Tabla final entregado
 
-> (Insertar aquí la tabla STRIDE del proceso de generación de FUEC o un enlace al archivo Excel)
+<img width="2085" height="282" alt="image" src="https://github.com/user-attachments/assets/75a2b576-6e86-415c-8f17-c304d43e8289" />
 
 # 📋 Tabla de actores, entidades o componentes
 
