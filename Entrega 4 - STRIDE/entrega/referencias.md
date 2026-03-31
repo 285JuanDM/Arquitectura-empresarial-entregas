@@ -5,7 +5,6 @@ Este archivo contiene las fuentes consultadas para el desarrollo del taller, tan
 ## 🔖 Taller
 
 *Taller 4 - STRIDE*
-¿
 
 ## 📚 Referencias utilizadas
 
