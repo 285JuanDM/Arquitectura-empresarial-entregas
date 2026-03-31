@@ -12,3 +12,4 @@
 | 2                 | Modelo ER         | [Visitar](Entrega%202%20-%20Modelo%20Entidad%20Relacion/)     |
 | 3                 | Infraestructura   | [Visitar](Entrega%203%20-%20Infraestructura/)                 |
 | 4                 | STRIDE            | [Visitar](Entrega%204%20-%20STRIDE/)                          |
+| 5                 | Normativa         | [Visitar](Entrega%205%20-%20Normativa/)                       |

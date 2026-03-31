@@ -36,7 +36,7 @@ Se asumió que la organización no cuenta con un sistema de gestión de segurida
 
 # 📈 Tabla final entregada
 
-*(Se adjunta la tabla de checklist de cumplimiento desarrollada en Excel, donde se detallan los criterios evaluados, nivel de cumplimiento, evidencias y recomendaciones.)*
+<img width="1678" height="320" alt="image" src="https://github.com/user-attachments/assets/314dca4d-6b8d-4e92-8c04-5adebb653ddf" />
 
 # 📋 Tabla de actores, entidades o componentes
 
