@@ -31,7 +31,7 @@ Durante la clase se logró identificar posibles brechas, especialmente en escena
 
 ## 🧩 Boceto inicial del modelo
 
-*(Aquí pueden pegar la tabla o captura del checklist que hicieron en clase)*
+<img width="843" height="2048" alt="5ac32bae-02d9-46ae-83f4-e078f331fbf5" src="https://github.com/user-attachments/assets/387b922e-42ab-4605-9eda-2b8cb2fa6aed" />
 
 El modelo inicial corresponde a un **checklist de cumplimiento normativo aplicado a GobData**, en el cual se evalúan diferentes criterios legales y de seguridad. Este permite visualizar de forma estructurada el nivel de cumplimiento del sistema frente a normativas de protección de datos.
 
