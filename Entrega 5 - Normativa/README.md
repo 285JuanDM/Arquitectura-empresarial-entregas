@@ -45,7 +45,7 @@ Se identificaron aspectos clave como la necesidad de garantizar el consentimient
 
 El modelo de checklist permitió estructurar la evaluación en diferentes categorías, facilitando la identificación de brechas normativas y riesgos asociados al manejo de información en entornos gubernamentales.
 
-<img width="2821" height="221" alt="image" src="https://github.com/user-attachments/assets/placeholder-gobdata" />
+<img width="843" height="2048" alt="5ac32bae-02d9-46ae-83f4-e078f331fbf5" src="https://github.com/user-attachments/assets/5ec36eaf-cb19-488b-95ae-83ae9c187d78" />
 
 ## Caso Real – 🚌 TransCapital S.A.S
 
@@ -61,7 +61,7 @@ El checklist evidenció múltiples incumplimientos normativos, especialmente en 
 
 Estos hallazgos reflejan un bajo nivel de madurez en la gestión de la información, lo que representa riesgos legales y operativos significativos. A partir del análisis, se propusieron mejoras orientadas a la implementación de controles de seguridad, formalización de políticas y adopción de buenas prácticas.
 
-
+<img width="1678" height="320" alt="image" src="https://github.com/user-attachments/assets/314dca4d-6b8d-4e92-8c04-5adebb653ddf" />
 
 # 📁 Estructura del Repositorio
 
