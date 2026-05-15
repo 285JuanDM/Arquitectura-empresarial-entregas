@@ -13,3 +13,5 @@
 | 3                 | Infraestructura   | [Visitar](Entrega%203%20-%20Infraestructura/)                 |
 | 4                 | STRIDE            | [Visitar](Entrega%204%20-%20STRIDE/)                          |
 | 5                 | Normativa         | [Visitar](Entrega%205%20-%20Normativa/)                       |
+| 6                 | Gobernanza        | [Visitar](Entrega%206%20-%20Gobernanza/)                      |
+| 7                 | Riesgos           | [Visitar](Entrega%207%20-%20Riesgos/)                         |
