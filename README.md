@@ -15,3 +15,5 @@
 | 5                 | Normativa         | [Visitar](Entrega%205%20-%20Normativa/)                       |
 | 6                 | Gobernanza        | [Visitar](Entrega%206%20-%20Gobernanza/)                      |
 | 7                 | Riesgos           | [Visitar](Entrega%207%20-%20Riesgos/)                         |
+| 8                 | Integración de Vistas de Arquitectura  | [Visitar](Entrega%208%20-%20Integracion%20de%20Vistas%20de%20Arquitectura/)        |
+| 9                 | Presentación Final           | [Visitar](Entrega%209%20-%20Presentacion%20Final/) |
