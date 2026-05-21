@@ -1,32 +1,57 @@
-# 🙋‍♂️ Reflexión Individual
+# 🙋‍♂️ Reflexión Individual - Arquitectura Empresarial
 
 ## 👤 Nombre del Estudiante
-_Escriba su nombre completo aquí._
+_Óscar David Vergara Moreno_
 
 ## 💼 Rol en el equipo
-_Describa el rol principal que desempeñó en el desarrollo del proyecto arquitectónico._
-(Ej: modelador BPMN, responsable del análisis STRIDE, encargado del modelado de datos, presentador del equipo, etc.)
+- **Modelador BPMN** – Diseño y documentación de todos los procesos de negocio (core, soporte y gestión).
+- **Analista STRIDE** – Identificación y clasificación de amenazas de seguridad por componente y flujo.
+- **Integrador de vistas** – Aseguramiento de coherencia entre BPMN, modelo entidad-relación, infraestructura y riesgos.
 
 ## 🎓 Aprendizajes Clave
 
-- 📌 Aprendí a [ejemplo: estructurar procesos usando BPMN con base en un proceso real del cliente].
-- 💡 Comprendí mejor [ejemplo: cómo una arquitectura bien diseñada facilita la toma de decisiones técnicas].
-- ⚙️ Practiqué habilidades como [ejemplo: trabajo en equipo, modelado visual, documentación técnica].
+- 📌 Aprendí a **modelar procesos BPMN 2.0** desde cero, incluyendo eventos de inicio/fin, compuertas exclusivas, subprocesos y pools de colaboración, basados en un caso real del sector.
+- 💡 Comprendí mejor cómo **STRIDE se integra con BPMN**: cada actividad, flujo de datos y rol puede tener amenazas específicas (suplantación, manipulación, repudio, divulgación, denegación, elevación).
+- ⚙️ Practiqué habilidades como **trazabilidad arquitectónica** – desde requisitos de negocio (BPMN) hasta riesgos (STRIDE) y controles de gobernanza.
 
 ## 🔄 Retos Superados
 
-- Tuve dificultades con [ejemplo: representar correctamente los flujos del sistema en C4], pero logré superarlo mediante [ejemplo: consultas al docente, revisión de ejemplos reales, uso de draw.io].
-- Aprendí que es importante [ejemplo: validar los supuestos del cliente antes de modelar].
+- Tuve dificultades con **diferenciar procesos de core vs soporte en BPMN**, pero lo superé revisando ejemplos del sector financiero y consultando al docente.
+- Aprendí que es importante **no modelar excepciones técnicas dentro de BPMN de negocio**; esas van en STRIDE o en vistas de infraestructura.
+- Otro reto fue **clasificar amenazas entre repudio (R) y elevación de privilegios (E)** en STRIDE. Lo resolví usando matrices de ejemplo y validación en equipo.
 
 ## 🌱 Áreas por Mejorar
 
-- Me gustaría reforzar mi conocimiento en [ejemplo: modelado de infraestructura o evaluación de riesgos].
-- Reconozco que debo mejorar [ejemplo: mi gestión del tiempo para cumplir con entregas parciales].
+- Me gustaría reforzar mi conocimiento en **evaluación cuantitativa de riesgos** (no solo cualitativa con STRIDE).
+- Reconozco que debo mejorar **la sincronización con el equipo de gobernanza** para que los controles propuestos desde STRIDE sean realmente aplicables.
+- Quiero profundizar en **modelado de integración entre aplicaciones** (vistas C4 o Archimate).
 
 ## 🧠 Contribución Personal
 
-Siento que mi mayor aporte al equipo fue [ejemplo: organizar las vistas, integrar los diagramas, validar la coherencia entre los entregables].
+Siento que mi mayor aporte al equipo fue:
+
+1. **Entregar BPMN completo y validado** para todos los procesos del caso.
+2. **Integrar STRIDE con cada flujo BPMN**, generando una matriz de amenazas por actividad.
+3. **Mantener coherencia entre los 9 entregables** (BPMN, MER, infraestructura, normativa, gobernanza, riesgos, integración y presentación final).
+4. **Apoyar en la presentación final** explicando la relación entre procesos de negocio y seguridad.
 
 ---
 
-_Esta reflexión individual hace parte de la entrega final del curso AREM - Arquitectura Empresarial - Universidad de La Sabana._
+## 📊 Resumen de Entregables que Realicé
+
+| Entregable | Mi contribución |
+|------------|----------------|
+| BPMN | Diseño completo de todos los diagramas |
+| Modelo Entidad-Relación | Apoyo en validación de entidades vs procesos |
+| Infraestructura | Identificación de activos para STRIDE |
+| STRIDE | Análisis completo por componente y flujo |
+| Normativa | Mapeo de requisitos legales a amenazas |
+| Gobernanza | Propuesta de roles para gestión de riesgos |
+| Riesgos | Priorización conjunta con STRIDE |
+| Integración | Trazabilidad entre vistas |
+| Presentación Final | Co-creación de diapositivas y exposición |
+
+---
+
+_Esta reflexión individual hace parte de la entrega final del curso AREM - Arquitectura Empresarial - Universidad de La Sabana.  
+Mi nombre es Óscar David Vergara Moreno y fui modelador BPMN y analista STRIDE del equipo._
