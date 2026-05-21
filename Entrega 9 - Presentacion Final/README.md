@@ -40,9 +40,9 @@ taller-08-presentacion-final/
 │   │   └── 07-integracion/
 │   │
 │   └── reflexiones/
-│       ├── oscar-vergara.md
-│       ├── jaime-olarte.md
-│       └── juan-moreno.md
+│       ├── Jaime-Andres-Olarte.md
+│       ├── Juan-David-Moreno.md
+│       └── Oscar-David-Vergara.md
 ```
 
 ## ✅ Licencia
