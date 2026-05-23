@@ -1,32 +1,38 @@
-# 🙋‍♂️ Reflexión Individual
+# 🙋‍♂️ Reflexión Individual — Arquitectura Empresarial
 
 ## 👤 Nombre del Estudiante
-_Escriba su nombre completo aquí._
+*Jaime Andrés Olarte*
 
 ## 💼 Rol en el equipo
-_Describa el rol principal que desempeñó en el desarrollo del proyecto arquitectónico._
-(Ej: modelador BPMN, responsable del análisis STRIDE, encargado del modelado de datos, presentador del equipo, etc.)
+- **Arquitecto de infraestructura** – Diseño de la arquitectura AS-IS y TO-BE, incluyendo la propuesta de VPS con PostgreSQL, red privada Tailscale y configuración de acceso remoto seguro.
+- **Responsable de seguridad técnica** – Definición de controles por capa: cifrado en tránsito (WireGuard), cifrado en reposo (BitLocker), autenticación MFA con Google Identity y logs de auditoría.
+- **Analista de riesgos** – Identificación y priorización de los quince riesgos distribuidos en siete dominios, con énfasis en los tres riesgos críticos de impacto operativo directo.
 
 ## 🎓 Aprendizajes Clave
 
-- 📌 Aprendí a [ejemplo: estructurar procesos usando BPMN con base en un proceso real del cliente].
-- 💡 Comprendí mejor [ejemplo: cómo una arquitectura bien diseñada facilita la toma de decisiones técnicas].
-- ⚙️ Practiqué habilidades como [ejemplo: trabajo en equipo, modelado visual, documentación técnica].
+- 📌 Aprendí que la infraestructura no es solo tecnología — es la materialización de decisiones de negocio. Cada componente que propuse (el VPS, Tailscale, los backups nocturnos) responde directamente a un riesgo identificado o a un principio de gobernanza definido en equipo. Diseñar así me hizo entender que una buena arquitectura de infraestructura siempre tiene una justificación de negocio detrás, no solo una justificación técnica.
+
+- 💡 Comprendí el valor real del modelo Zero Trust en un contexto empresarial pequeño. Antes asociaba ese concepto con grandes corporaciones con equipos de seguridad dedicados. TransCapital demostró que con Tailscale y MFA se puede implementar una postura Zero Trust funcional con menos de veinte dólares mensuales y sin personal técnico especializado.
+
+- ⚙️ Afiancé mi capacidad para analizar riesgos de forma estructurada por dominios — negocio, procesos, datos, infraestructura, seguridad, personas y normativa. Pasar de identificar un riesgo a proponer una mitigación concreta, medible y operacionalmente viable para una empresa como TransCapital fue uno de los ejercicios más exigentes y más útiles del curso.
+
+- 🗺️ Entendí que los trade-offs son parte inherente de cualquier decisión arquitectónica. En la presentación final expuse abiertamente las limitaciones de cada decisión que tomamos — la dependencia de Tailscale, el riesgo de vendor lock-in con Google Workspace — y eso, lejos de debilitar la propuesta, demostró criterio y madurez arquitectónica.
 
 ## 🔄 Retos Superados
 
-- Tuve dificultades con [ejemplo: representar correctamente los flujos del sistema en C4], pero logré superarlo mediante [ejemplo: consultas al docente, revisión de ejemplos reales, uso de draw.io].
-- Aprendí que es importante [ejemplo: validar los supuestos del cliente antes de modelar].
+- Mi mayor dificultad fue conectar la dimensión legal y normativa con las decisiones de infraestructura. Al principio veía la Resolución 3068 y la Ley 1581 como requisitos externos que había que "cumplir" de forma separada a lo técnico. El reto fue entender que cada control de infraestructura que proponía — los logs de auditoría, el cifrado de datos, los backups estructurados — era también una respuesta directa a esos requisitos normativos. Lograr esa conexión fue lo que le dio coherencia real a la arquitectura TO-BE.
+
+- También fue difícil dimensionar la solución correctamente para el contexto de TransCapital. Mi instinto inicial fue proponer una arquitectura más robusta y compleja, pero rápidamente entendí que una solución que el cliente no puede operar por sí mismo no es una solución — es un problema nuevo. Aprender a diseñar con restricción operativa como criterio de diseño, no como limitación, fue un cambio de perspectiva significativo.
 
 ## 🌱 Áreas por Mejorar
 
-- Me gustaría reforzar mi conocimiento en [ejemplo: modelado de infraestructura o evaluación de riesgos].
-- Reconozco que debo mejorar [ejemplo: mi gestión del tiempo para cumplir con entregas parciales].
+- Quiero profundizar en marcos de modelado arquitectónico como C4, Archimate y TOGAF. Durante el proyecto trabajé principalmente con diagramas de infraestructura y riesgos, pero reconozco que me faltan herramientas para representar arquitecturas de forma más estandarizada y comunicable entre diferentes audiencias técnicas y no técnicas.
+
+- Me gustaría también fortalecer mi capacidad para documentar decisiones arquitectónicas de forma más formal — por ejemplo, mediante Architecture Decision Records (ADRs) — de modo que las justificaciones de cada elección queden registradas y sean auditables en el tiempo, no solo implícitas en los diagramas.
 
 ## 🧠 Contribución Personal
 
-Siento que mi mayor aporte al equipo fue [ejemplo: organizar las vistas, integrar los diagramas, validar la coherencia entre los entregables].
+Siento que mi mayor aporte al equipo fue traducir los riesgos en arquitectura concreta. Identificar que el SPOF del Excel era crítico es un diagnóstico; proponer que PostgreSQL en VPS con backups automáticos y acceso exclusivo por Tailscale elimina ese riesgo específico es arquitectura. Esa diferencia — entre nombrar un problema y diseñar su solución con componentes reales, costos reales y decisiones justificadas — es lo que más me esforcé en aportar durante el proyecto, y creo que se refleja en la coherencia entre la vista de infraestructura TO-BE, el análisis de riesgos y los trade-offs que presentamos.
 
----
-
-_Esta reflexión individual hace parte de la entrega final del curso AREM - Arquitectura Empresarial - Universidad de La Sabana._
+*Esta reflexión individual hace parte de la entrega final del curso AREM - Arquitectura Empresarial - Universidad de La Sabana.*
+*Mi nombre es Jaime Andrés Olarte y fui arquitecto de infraestructura y responsable de seguridad técnica del equipo.*
